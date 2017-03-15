@@ -1,2 +1,3 @@
 # hello-world2
-practice
+this practice number 2
+repository will be deleted later
